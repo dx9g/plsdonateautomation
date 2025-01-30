@@ -25,6 +25,8 @@ messages = [ # List of messages to send
 
 def send_chat_message():
     print("dx9g's pls donate program starting... You have 5 seconds to switch to Roblox.")
+    print("give me a star on my github if you like this program!")
+    print("https://github.com/ixvq/plsdonateautomation")
     time.sleep(5)
 
     while True:
