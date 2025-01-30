@@ -42,7 +42,7 @@ def send_chat_message():
         keyboard.press(Key.enter)
         keyboard.release(Key.enter)
 
-        print("Message sent! Waiting 20 seconds...")
+        print("Message sent! Waiting 15 seconds...")
         time.sleep(15)  # Wait (...) seconds before sending the next message
 
 send_chat_message()
