@@ -26,5 +26,5 @@ Keep in mind that setting the delay to low numbers might result in getting banne
 # 4. Is this file safe?
 Yes, it is, its open sourced python file, you can edit it however you want.
 
-
+# Proof from virustotal:
 ![image](https://github.com/user-attachments/assets/db0a0649-0fbb-48f5-97f9-133d5f3183c9)
