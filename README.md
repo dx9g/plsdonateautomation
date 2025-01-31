@@ -10,7 +10,7 @@
 # 2. Important
 Roblox app has to be on top most, otherwise it won't work,
 Cmd has to be always opened, otherwise it won't work,
-Don't click anything on your keyboard, the script is automatically typing on chat, that means its possible to break the message,
+Don't click anything on your keyboard, the script is automatically typing in chat, that means its possible to break the message,
 If you want to stop the program, just close the cmd
 Script is automatically sending messages after 14 seconds
 Keep in mind that setting the delay to low numbers might result in getting banned
