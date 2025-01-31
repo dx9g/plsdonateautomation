@@ -8,6 +8,8 @@
 5. Switch app to roblox, make sure the roblox app is top most, otherwise it won't work
 6. Script should start working after 5 seconds from opening the file
 
+python download link: https://www.python.org/downloads/
+
 # 2. Important
 Roblox app has to be on top most, otherwise it won't work,
 Cmd has to be always opened, otherwise it won't work,
