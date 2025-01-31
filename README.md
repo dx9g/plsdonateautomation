@@ -2,10 +2,11 @@
 
 # 1. How to make it work?
 1. Download the file,
-2. Make sure roblox is opened before opening the program,
-3. When you are ready to use the program (when you are next to your booth) open the file,
-4. Switch app to roblox, make sure the roblox app is top most, otherwise it won't work
-5. Script should start working after 5 seconds from opening the file
+2. Make sure you have python and all the requirements from requirements.txt installed on your pc
+3. Make sure roblox is opened before opening the program,
+4. When you are ready to use the program (when you are next to your booth) open the file,
+5. Switch app to roblox, make sure the roblox app is top most, otherwise it won't work
+6. Script should start working after 5 seconds from opening the file
 
 # 2. Important
 Roblox app has to be on top most, otherwise it won't work,
